@@ -20,11 +20,8 @@ Creating insightful visualizations
 
 1. Task1
 
-Description: Briefly describe the project.
+<img width="632" alt="Ver1" src="https://github.com/user-attachments/assets/f60da4e4-c5a7-481e-9523-bd87fae82f9e" />
 
-Data Source: Mention the source of the data.
-
-Key Features: Highlight key insights or functionalities.
 
 # Usage
 
